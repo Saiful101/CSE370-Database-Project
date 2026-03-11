@@ -60,6 +60,7 @@ How it works:
 
 4️⃣ Pharmacy & Medicine Inventory System
 How it works:
+
 	∙	Each medicine’s stock quantity, price, and expiry date are entered into the system
 	
 	∙	As soon as a doctor sends a prescription, the pharmacy automatically receives a notification
