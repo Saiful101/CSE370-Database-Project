@@ -106,3 +106,8 @@ How it works:
 	∙	Monthly blood donation statistics are displayed
 	
 	∙	All reports can be filtered by date range, doctor, or department
+
+# Technology Stack
+Database - MySQL
+Backend - Golang / PhP
+Fronted - HTML & CSS
