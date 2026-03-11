@@ -109,5 +109,7 @@ How it works:
 
 # Technology Stack
 Database - MySQL
+
 Backend - Golang / PhP
+
 Fronted - HTML & CSS
